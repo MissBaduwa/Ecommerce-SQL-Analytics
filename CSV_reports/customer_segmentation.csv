@@ -1,0 +1,16 @@
+customer_id,Customer_Name,country,Total_Orders,Total_Spent,Avg_Order_Value,Customer_Tenure_Days,Customer_Tier
+2,"Maria Garcia",Spain,2,2049.98,1024.99,60,VIP
+1,"John Smith",USA,2,1349.98,674.99,9,VIP
+9,"Robert Lee",Japan,1,1199.99,1199.99,0,VIP
+15,"Daniel Kim","South Korea",1,1199.99,1199.99,0,VIP
+6,"Emma Davis",Canada,1,999.99,999.99,0,Premium
+7,"James Brown",France,2,679.98,339.99,28,Premium
+4,"Sarah Chen",China,1,599.99,599.99,0,Premium
+5,"Mike Wilson",Australia,2,529.98,264.99,33,Premium
+13,"William Anderson",UK,1,449.99,449.99,0,Standard
+8,"Lisa Taylor",Germany,1,399.99,399.99,0,Standard
+3,"David Johnson",UK,2,259.98,129.99,59,Standard
+11,"Michael Clark",USA,1,249.99,249.99,0,Standard
+14,"Olivia Wang",China,1,89.99,89.99,0,Standard
+12,"Sophia Rodriguez",Spain,1,69.98,69.98,0,Standard
+10,"Anna Martinez",Mexico,1,59.99,59.99,0,Standard

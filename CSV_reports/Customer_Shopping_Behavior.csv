@@ -1,0 +1,16 @@
+customer_id,name,country,signup_date,Total_Orders,Lifetime_Value,Days_As_Customer,Customer_Type
+2,"Maria Garcia",Spain,2023-02-20,2,2049.98,70,Repeat
+1,"John Smith",USA,2023-01-15,2,1349.98,54,Repeat
+9,"Robert Lee",Japan,2023-03-15,1,1199.99,34,One-time
+15,"Daniel Kim","South Korea",2023-04-12,1,1199.99,38,One-time
+6,"Emma Davis",Canada,2023-03-25,1,999.99,11,One-time
+7,"James Brown",France,2023-01-30,2,679.98,98,Repeat
+4,"Sarah Chen",China,2023-03-10,1,599.99,5,One-time
+5,"Mike Wilson",Australia,2023-02-05,2,529.98,89,Repeat
+13,"William Anderson",UK,2023-03-20,1,449.99,56,One-time
+8,"Lisa Taylor",Germany,2023-04-01,1,399.99,11,One-time
+3,"David Johnson",UK,2023-01-22,2,259.98,101,Repeat
+11,"Michael Clark",USA,2023-04-10,1,249.99,30,One-time
+14,"Olivia Wang",China,2023-04-05,1,89.99,43,One-time
+12,"Sophia Rodriguez",Spain,2023-04-15,1,69.98,27,One-time
+10,"Anna Martinez",Mexico,2023-02-28,1,59.99,51,One-time
